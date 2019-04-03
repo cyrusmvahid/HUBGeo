@@ -1,0 +1,3 @@
+[submodule "Pandas-Tutorial"]
+	path = Pandas-Tutorial
+	url = https://github.com/adeshpande3/Pandas-Tutorial.git
